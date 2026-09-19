@@ -33,6 +33,7 @@ module tb;
         {A,B}=1101; #5;
         {A,B}=1110; #5;
         {A,B}=1111; #5;
+        $finish;
     end
 
     initial
